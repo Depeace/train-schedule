@@ -1,0 +1,20 @@
+body {
+    background-color: #5367db;
+  }
+  .panel-primary > .panel-heading {
+    background-color: #20278d;
+  }
+  .jumbotron {
+    margin-top: 30px;
+    border: 10px #3777cc solid;
+    background-color: #156434;
+    color: whitesmoke;
+  }
+  .cityPic {
+    max-width: 100%;
+    margin: auto;
+  }
+  .btn {
+    background-color: #422579;
+    color: white;
+  }
